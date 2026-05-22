@@ -96,7 +96,7 @@ Relationships were created between these tables to enable accurate KPI calculati
 
 ## Dashboard Preview
 
-![Dashboard Preview](Ecommerce-Sale-Analysis-PowerBI/screenshot.png)
+![Dashboard Preview](Ecommerce-Sale-Analysis-PowerBI/Screenshot.png)
 
 ---
 
